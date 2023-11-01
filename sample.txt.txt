@@ -36,3 +36,5 @@ git commit -m <message>
 13. git revert commit-id => revert back the commit with the given commit-id
 
 14. git push origin branch-name => pushes the given branch commits to origin remote repositories(origin is the remote name)
+
+15. git pull origin branch-name => pulls the given branch updates from origin remote repo.
