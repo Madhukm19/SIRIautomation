@@ -38,3 +38,5 @@ git commit -m <message>
 14. git push origin branch-name => pushes the given branch commits to origin remote repositories(origin is the remote name)
 
 15. git pull origin branch-name => pulls the given branch updates from origin remote repo.
+
+16. git checkout -b <branchname> --> to create branch in local to remote repository
