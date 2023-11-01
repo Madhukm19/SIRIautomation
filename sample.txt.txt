@@ -1,0 +1,32 @@
+\1. To clone specific branch 
+git clone --branch <branchname> <remote-repo-url>
+
+2. To clone a github repository
+git clone url
+
+3. To view the branches in the local 
+git branch
+
+4. To see the newly remote branch which is not yet checkout to local
+git fetch --all
+
+5. To switch between branches
+git checkout <branchname>
+
+6. It will show the changed files and untracted files in the local
+git status
+
+7. To stage the changes made in local
+git add <file name>
+
+8. To stage all the changes made in local
+git add . 
+
+9. To unstage the file in git
+git reset <filename>
+
+10. To unstage the all the staged files 
+git reset 
+
+11. To commit all the staged files 
+git commit -m <message>
