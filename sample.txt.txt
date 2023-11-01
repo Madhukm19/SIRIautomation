@@ -30,3 +30,9 @@ git reset
 
 11. To commit all the staged files 
 git commit -m <message>
+
+12. git reflog - shows history of commits (with IDS)
+
+13. git revert commit-id => revert back the commit with the given commit-id
+
+14. git push origin branch-name => pushes the given branch commits to origin remote repositories(origin is the remote name)
