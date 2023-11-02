@@ -34,3 +34,5 @@ git commit -m <message>
 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
 
 12. git push origin branchname
+
+13. git checkout <branch name>
